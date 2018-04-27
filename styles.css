@@ -16,3 +16,7 @@ body{
 .center {
   text-align: center;
 }
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
